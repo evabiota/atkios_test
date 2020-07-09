@@ -1,5 +1,14 @@
 # README #
+Eva Biota Atkios test<br>
+Live demo:<br>
+http://www.icecreamforeva.com/atkios_test/
 
+<strong>install###<br></strong>
+npm install --global gulp-cli<br>
+npm install node-sass gulp-sass --save-dev<br>
+npm install browser-sync gulp --save-dev<br>
+
+#####################<br>
 El test consta de una parte obligatoria y otra opcional, esta última sólo se valorará si préviamente se ha realizado la obligatoria.
 
 ### Obligatoria: ###
